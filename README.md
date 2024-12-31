@@ -1,20 +1,21 @@
-# Node JS - JWT with role based authorization
+# Role Based Suthorization
 
-This project is a sample of how to use JWT Authentication in Node JS APIs.
+This project demonstrates how to implement JWT (JSON Web Token) Authentication in a Node.js API with role-based authorization.
 
-Inside the `docker` folder you will find a `docker-compose.yaml` file built to run the MongoDB and the MongoDB Express (a web client for Mongo database). They will be necessary to run and test the project.
+The docker folder contains a docker-compose.yaml file, which sets up MongoDB and MongoDB Express (a web interface for MongoDB) for running and testing the project.
+
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+These instructions will help you set up the project on your local machine for development and testing.
 
 ### Prerequisites
 
-In order to run the project, you will need:
+Before starting the project, make sure you have the following installed:
 
-- Docker running on your machine
-- Node JS installed in your machine
-- [MongoDB](https://www.mongodb.com)
+Docker
+Node.js
+MongoDB
 
 
 ### Running the Docker container
