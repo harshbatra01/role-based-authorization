@@ -1,4 +1,4 @@
-# Role Based Suthorization
+# Role Based Authorization
 
 This project demonstrates how to implement JWT (JSON Web Token) Authentication in a Node.js API with role-based authorization.
 
